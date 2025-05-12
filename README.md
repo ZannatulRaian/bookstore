@@ -3,8 +3,6 @@
 
 A complete Laravel-based web application for managing book inventories with CRUD functionality, search, and pagination.
 
-![Bookstore Screenshot](https://via.placeholder.com/800x400?text=Bookstore+Screenshot) *(Replace with actual screenshot)*
-
 ## 🌟 Features
 
 - **Book CRUD Operations** (Create, Read, Update, Delete)

@@ -1,7 +1,4 @@
 # bookstore
-Here's a professional `README.md` file for your GitHub repository that clearly explains your Bookstore Management System:
-
-```markdown
 # 📚 Bookstore Management System
 
 A complete Laravel-based web application for managing book inventories with CRUD functionality, search, and pagination.

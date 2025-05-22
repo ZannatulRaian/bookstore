@@ -21,8 +21,8 @@ A complete Laravel-based web application for managing book inventories with CRUD
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/username/bookstore-management.git
-   cd bookstore-management
+   git clone https://github.com/username/bookstore.git
+   cd bookstore
    ```
 
 2. **Install dependencies**

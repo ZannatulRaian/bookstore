@@ -2,6 +2,9 @@
 
 A complete Laravel-based web application for managing book inventories with CRUD functionality, search, and pagination.
 
+[![Watch the video](https://img.youtube.com/vi/iDKUjehYtpo/0.jpg
+)](https://youtu.be/iDKUjehYtpo?si=yjU_BDfnXDmvRS-I)
+
 ## 🌟 Features
 
 - **Book CRUD Operations** (Create, Read, Update, Delete)

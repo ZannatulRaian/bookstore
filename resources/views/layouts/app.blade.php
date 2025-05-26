@@ -249,6 +249,7 @@
           border-radius: 4px;
           cursor: pointer;
           transition: background-color 0.3s;
+          text-decoration: none;
         }
         
         .submit-btn:hover {
